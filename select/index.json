@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Alarm Call",
+  "base_artist": "The Correspondents",
+  "createdAt": "2026-02-07T17:02:42.529029Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alarm Call",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/01_Alarm_Call_Björk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alarm Call",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/02_Alarm_Call_Björk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Alarm Call (Bjeck Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/03_Alarm_Call_(Bjeck_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alarm Call (French Dub)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/04_Alarm_Call_(French_Dub)_Björk.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alarm Call (French Edit)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/05_Alarm_Call_(French_Edit)_Björk.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Alarm Call (Gangsta)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/06_Alarm_Call_(Gangsta)_Björk.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alarm Call (Locked)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_Alarm_Call_(Locked)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Alarm Call (Phunk You)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/08_Alarm_Call_(Phunk_You)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Alarm Call (Potage Du Jour)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/09_Alarm_Call_(Potage_Du_Jour)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Alarm Call (Radio Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/10_Alarm_Call_(Radio_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Alarm Call (Rhythmic Phonetics Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/11_Alarm_Call_(Rhythmic_Phonetics_Mix)_Björk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Alarm Call",
+      "artist": "The Correspondents",
+      "has_synced": false,
+      "path": "select/pl_01_Alarm_Call_The_Correspondents.txt"
+    }
+  ]
+}
